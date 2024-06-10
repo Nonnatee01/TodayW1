@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo a {
+    font-size: 20px;
+    text-decoration: none;
+}
+.menu li a{
+    justify-content: space-between;
+}
